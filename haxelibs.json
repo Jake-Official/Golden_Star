@@ -1,0 +1,67 @@
+{
+  "dependencies": [
+    {
+      "name": "lime",
+      "type": "haxelib",
+      "version": "8.0.0"
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": "9.2.1"
+    },
+    {
+      "name": "flixel",
+      "type": "haxelib",
+      "version": "4.11.0"
+    },
+    {
+      "name": "hxCodec",
+      "type": "haxelib",
+      "version": "2.5.1"
+    },
+    {
+      "name": "extension-webm",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/KadeDev/extension-webm"
+    },
+    {
+      "name": "flixel-addons",
+      "type": "haxelib",
+      "version": "2.11.0"
+    },
+    {
+      "name": "flixel-ui",
+      "type": "haxelib",
+      "version": "2.4.0"
+    },
+    {
+      "name": "hxcpp",
+      "type": "haxelib",
+      "version": "4.2.1"
+    },
+    {
+      "name": "linc_luajit",
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/nebulazorua/linc_luajit"
+    },
+    {
+      "name": "hscript-ex",
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/ianharrigan/hscript-ex"
+    },
+    {
+      "name": "discord_rpc"
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/Aidan63/linc_discord-rpc"
+    }
+  ]
+}
