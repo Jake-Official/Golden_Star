@@ -16,7 +16,7 @@ class Main {
         if (!FileSystem.exists('.haxelib'))
             FileSystem.createDirectory('.haxelib');
 
-        final json:Array<Library> = Json.parse(File.getContent('./haxelibs.json')).dependencies;
+        final json:Array<Library> = Json.parse(File.getContent('./haxelibs.json'));
 
         for (lib in json) {
             switch (lib.type) {
